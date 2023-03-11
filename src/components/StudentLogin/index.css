@@ -1,0 +1,47 @@
+.student_login_container {
+  background-image: url('http://wallpaperset.com/w/full/d/4/5/43438.jpg');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(78, 78, 158);
+}
+.label {
+  color: rgb(233, 15, 15);
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.input {
+  height: 40px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.form {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid rgb(226, 7, 7);
+  border-radius: 20px;
+  padding: 30px;
+}
+.requestLogin {
+  color: rgb(224, 11, 11);
+}
+.span {
+  color: yellow;
+}
+.signinButton {
+  color: white;
+  background-color: rgb(110, 110, 246);
+  border-radius: 15px;
+  width: 35%;
+  height: 30px;
+}
+.signinButtonContainer {
+  text-align: center;
+}
+.signupsuccess {
+  color: white;
+}
