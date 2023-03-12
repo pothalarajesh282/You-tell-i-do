@@ -3,7 +3,7 @@ import {Component} from 'react'
 import {Link} from 'react-router-dom'
 import './index.css'
 
-const todoList = [{userName: 'rajesh', password: '268726'}]
+const todoList = [{userName: 'potalarajesh', password: '7075753534'}]
 
 class MasterSignUp extends Component {
   state = {userInput: '', passwordInput: ''}
